@@ -1,0 +1,6 @@
+# 平台 backend/frontend 本体仅使用 Python 标准库，无需安装依赖。
+# 以下依赖仅供保留的 report_generator/generate_report_dual.py 命令行图片报表使用。
+pandas>=1.0
+matplotlib>=3.0
+seaborn>=0.11
+numpy

@@ -1,0 +1,32 @@
+# Runtime databases, uploaded source files, generated reports, and raw learning data
+data/
+*.sqlite3
+*.sqlite3-*
+*.db
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+.venv/
+venv/
+
+# Node and build artifacts
+node_modules/
+dist/
+build/
+.npm/
+
+# Local environments and logs
+.env
+.env.*
+*.log
+*.tmp
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
